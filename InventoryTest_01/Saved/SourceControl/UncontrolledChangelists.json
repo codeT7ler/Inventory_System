@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Inventory.uasset"
+				"D:/UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Inventory.uasset",
+				"D:/UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Slots.uasset",
+				"D:/UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"D:/UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/TopDown/Blueprints/BP_InventoryComponent.uasset"
 			]
 		}
 	]

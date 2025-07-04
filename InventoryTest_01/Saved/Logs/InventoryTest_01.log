@@ -1279,3 +1279,360 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.04-09.17.54:622][345]AssetCheck: /Game/Inventory/Widgets/WB_Inventory Validating asset
 [2025.07.04-09.17.54:640][345]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Saved/SourceControl/UncontrolledChangelists.json
 [2025.07.04-09.17.56:833][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.07.04-09.19.11:615][217]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/Widgets/WB_Inventory.WB_Inventory
+[2025.07.04-09.19.11:616][217]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.07.04-09.19.11:620][217]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.07.04-09.19.11:625][217]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.07.04-09.19.11:690][217]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.04-09.19.12:641][217]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.07.04-09.19.12:659][217]LogSlate: Took 0.006491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.07.04-09.19.12:729][220]LogPSOHitching: Encountered 150 PSO creation hitches so far (50 graphics, 100 compute). 0 of them were precached.
+[2025.07.04-09.19.14:500][398]LogSlate: Window 'WB_Inventory' being destroyed
+[2025.07.04-09.20.44:400][928]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.04-09.21.51:348][547]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 363.463867
+[2025.07.04-09.21.51:672][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.04-09.21.51:672][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 363.779480, Update Interval: 300.783722
+[2025.07.04-09.21.57:688][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.07.04-09.21.58:303][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.04-09.21.58:328][350]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WB_Inventory] ([2] browsable assets)...
+[2025.07.04-09.21.58:330][350]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WB_Inventory.WB_Inventory]
+[2025.07.04-09.21.58:330][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Inventory]
+[2025.07.04-09.21.58:330][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Widgets/WB_Inventory" FILE="../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Inventory.uasset" SILENT=true
+[2025.07.04-09.21.58:340][350]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WB_Inventory
+[2025.07.04-09.21.58:340][350]LogSavePackage: Moving '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Saved/WB_Inventory9CFDC5A54BCEC022A1A1AABBF243FEF7.tmp' to '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Inventory.uasset'
+[2025.07.04-09.21.58:347][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.052 ms (total: 92.428 ms)
+[2025.07.04-09.21.58:373][350]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.04-09.21.58:373][350]LogContentValidation: Enabled validators:
+[2025.07.04-09.21.58:373][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.04-09.21.58:373][350]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.04-09.21.58:373][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.04-09.21.58:373][350]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.04-09.21.58:373][350]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.04-09.21.58:373][350]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.04-09.21.58:373][350]AssetCheck: /Game/Inventory/Widgets/WB_Inventory Validating asset
+[2025.07.04-09.22.25:332][929]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.07.04-09.22.25:332][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.04-09.22.25:335][929]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.07.04-09.22.25:336][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.04-09.22.25:373][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.07.04-09.22.30:224][312]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.07.04-09.22.30:231][312]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.07.04-09.22.30:239][312]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.07.04-09.22.30:251][313]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.07.04-09.22.36:365][ 45]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Slots
+[2025.07.04-09.22.36:371][ 45]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.07.04-09.22.36:974][115]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/Widgets/WB_Slots.WB_Slots
+[2025.07.04-09.22.36:974][115]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.07.04-09.22.36:980][115]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.07.04-09.22.44:510][541]LogSlate: Window 'WB_Slots' being destroyed
+[2025.07.04-09.22.46:642][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.07.04-09.22.47:293][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.04-09.22.47:323][868]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WB_Slots] ([2] browsable assets)...
+[2025.07.04-09.22.47:325][868]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WB_Slots.WB_Slots]
+[2025.07.04-09.22.47:325][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Slots]
+[2025.07.04-09.22.47:325][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Widgets/WB_Slots" FILE="../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Slots.uasset" SILENT=true
+[2025.07.04-09.22.47:333][868]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WB_Slots
+[2025.07.04-09.22.47:333][868]LogSavePackage: Moving '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Saved/WB_SlotsDD5D1414418FF30D7776FFB541D0A3D1.tmp' to '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Slots.uasset'
+[2025.07.04-09.22.47:343][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.485 ms (total: 142.914 ms)
+[2025.07.04-09.22.47:363][868]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.04-09.22.47:363][868]LogContentValidation: Enabled validators:
+[2025.07.04-09.22.47:363][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.04-09.22.47:363][868]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.04-09.22.47:363][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.04-09.22.47:363][868]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.04-09.22.47:363][868]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.04-09.22.47:363][868]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.04-09.22.47:363][868]AssetCheck: /Game/Inventory/Widgets/WB_Slots Validating asset
+[2025.07.04-09.22.47:375][868]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.04-09.25.50:366][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.07.04-09.25.50:368][155]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Lvl_TopDown' took 0.024
+[2025.07.04-09.25.50:368][155]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WB_Slots] ([2] browsable assets)...
+[2025.07.04-09.25.50:370][155]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WB_Slots.WB_Slots]
+[2025.07.04-09.25.50:370][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Slots]
+[2025.07.04-09.25.50:381][155]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Widgets/WB_Slots_Auto1
+[2025.07.04-09.25.50:381][155]LogSavePackage: Moving '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Saved/WB_Slots_Auto1ADF77D914701EA8B96C7F6B6ED22260E.tmp' to '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Saved/Autosaves/Game/Inventory/Widgets/WB_Slots_Auto1.uasset'
+[2025.07.04-09.25.50:381][155]LogFileHelpers: Auto-saving content packages took 0.013
+[2025.07.04-09.26.56:406][507]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 668.520996
+[2025.07.04-09.26.57:406][510]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.04-09.26.57:406][510]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 669.187744, Update Interval: 313.244415
+[2025.07.04-09.27.31:801][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.07.04-09.27.32:398][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.04-09.27.32:422][845]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WB_Slots] ([2] browsable assets)...
+[2025.07.04-09.27.32:424][845]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WB_Slots.WB_Slots]
+[2025.07.04-09.27.32:424][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Slots]
+[2025.07.04-09.27.32:424][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Widgets/WB_Slots" FILE="../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Slots.uasset" SILENT=true
+[2025.07.04-09.27.32:433][845]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WB_Slots
+[2025.07.04-09.27.32:434][845]LogSavePackage: Moving '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Saved/WB_Slots5F0D614045415B53C54ECEA78B624E9A.tmp' to '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Slots.uasset'
+[2025.07.04-09.27.32:441][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.470 ms (total: 186.384 ms)
+[2025.07.04-09.27.32:461][845]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.04-09.27.32:461][845]LogContentValidation: Enabled validators:
+[2025.07.04-09.27.32:461][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.04-09.27.32:461][845]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.04-09.27.32:461][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.04-09.27.32:461][845]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.04-09.27.32:461][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.04-09.27.32:461][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.04-09.27.32:461][845]AssetCheck: /Game/Inventory/Widgets/WB_Slots Validating asset
+[2025.07.04-09.28.34:701][242]LogSlate: Window 'Color Picker' being destroyed
+[2025.07.04-09.29.21:646][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.07.04-09.29.22:804][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.04-09.29.22:828][454]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WB_Slots] ([2] browsable assets)...
+[2025.07.04-09.29.22:830][454]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WB_Slots.WB_Slots]
+[2025.07.04-09.29.22:830][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WB_Slots]
+[2025.07.04-09.29.22:830][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/Widgets/WB_Slots" FILE="../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Slots.uasset" SILENT=true
+[2025.07.04-09.29.22:840][454]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WB_Slots
+[2025.07.04-09.29.22:840][454]LogSavePackage: Moving '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Saved/WB_SlotsE1EB3CD7473063FFC73E7EA73CA2204B.tmp' to '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Slots.uasset'
+[2025.07.04-09.29.22:847][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.205 ms (total: 228.590 ms)
+[2025.07.04-09.29.22:872][454]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.04-09.29.22:872][454]LogContentValidation: Enabled validators:
+[2025.07.04-09.29.22:872][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.04-09.29.22:872][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.04-09.29.22:872][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.04-09.29.22:872][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.04-09.29.22:872][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.04-09.29.22:872][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.04-09.29.22:872][454]AssetCheck: /Game/Inventory/Widgets/WB_Slots Validating asset
+[2025.07.04-09.30.56:419][ 68]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.07.04-09.30.56:419][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.04-09.30.56:424][ 68]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.07.04-09.30.56:424][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.04-09.30.56:455][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.07.04-09.30.59:655][419]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.07.04-09.31.00:936][553]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.07.04-09.31.08:810][111]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.04-09.31.08:828][111]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.07.04-09.31.08:836][111]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.07.04-09.31.08:857][112]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.07.04-09.31.19:053][332]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_InventoryComponent
+[2025.07.04-09.31.19:058][332]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.07.04-09.31.40:159][706]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2025.07.04-09.31.40:159][706]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.07.04-09.31.40:228][706]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.04-09.31.40:243][706]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.07.04-09.31.40:244][706]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.07.04-09.31.40:748][709]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.07.04-09.31.48:233][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.07.04-09.31.48:916][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.04-09.31.48:944][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.07.04-09.31.48:954][495]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2025.07.04-09.31.48:954][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.07.04-09.31.48:963][495]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.07.04-09.31.48:963][495]LogSavePackage: Moving '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Saved/BP_TopDownCharacter808D86144FE9548A79FA16B5393766DF.tmp' to '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.07.04-09.31.48:973][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.580 ms (total: 285.171 ms)
+[2025.07.04-09.31.48:998][495]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.04-09.31.48:998][495]LogContentValidation: Enabled validators:
+[2025.07.04-09.31.48:998][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.04-09.31.48:998][495]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.04-09.31.48:998][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.04-09.31.48:998][495]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.04-09.31.48:998][495]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.04-09.31.48:998][495]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.04-09.31.48:998][495]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.07.04-09.31.49:019][495]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.04-09.32.08:983][ 53]LogSlate: Window 'BP_TopDownCharacter' being destroyed
+[2025.07.04-09.32.08:991][ 53]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.07.04-09.32.08:991][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.04-09.32.09:038][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.07.04-09.32.16:993][108]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 989.108215
+[2025.07.04-09.32.18:327][112]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.04-09.32.18:327][112]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 990.108215, Update Interval: 327.369598
+[2025.07.04-09.32.29:469][409]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_InventoryComponent.BP_InventoryComponent
+[2025.07.04-09.32.29:470][409]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.07.04-09.32.36:510][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.07.04-09.32.37:128][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.04-09.32.37:151][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_InventoryComponent] ([2] browsable assets)...
+[2025.07.04-09.32.37:151][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_InventoryComponent]
+[2025.07.04-09.32.37:160][173]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_InventoryComponent
+[2025.07.04-09.32.37:160][173]LogSavePackage: Moving '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Saved/BP_InventoryComponentF3D6416147EE03635D039D9DBB560888.tmp' to '../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/TopDown/Blueprints/BP_InventoryComponent.uasset'
+[2025.07.04-09.32.37:172][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.164 ms (total: 329.336 ms)
+[2025.07.04-09.32.37:200][173]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.04-09.32.37:200][173]LogContentValidation: Enabled validators:
+[2025.07.04-09.32.37:200][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.04-09.32.37:200][173]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.04-09.32.37:200][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.04-09.32.37:200][173]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.04-09.32.37:200][173]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.04-09.32.37:200][173]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.04-09.32.37:200][173]AssetCheck: /Game/TopDown/Blueprints/BP_InventoryComponent Validating asset
+[2025.07.04-09.32.37:228][173]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.04-09.32.38:328][293]LogSlate: Window 'BP_InventoryComponent' being destroyed
+[2025.07.04-09.32.39:812][470]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.04-09.32.39:815][470]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.07.04-09.32.39:815][470]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2025.07.04-09.32.39:816][470]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 533 us
+[2025.07.04-09.32.39:816][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.04-09.32.39:816][470]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2025.07.04-09.32.39:818][470]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.07.04-09.32.39:842][471]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.07.04-09.32.39:845][471]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.07.04-09.32.39:847][471]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 800 us
+[2025.07.04-09.32.39:847][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004981s)
+[2025.07.04-09.32.39:847][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.005046s)
+[2025.07.04-09.32.39:872][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.04-09.32.39:875][471]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2025.07.04-09.32.39:877][471]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.04-09.32.39:877][471]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.04-09.32.39:877][471]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.04-09.32.39:877][471]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.04-09.32.39:878][471]LogWorldPartition: Display: WorldPartition initialize took 1.261 ms (total: 46.999 ms)
+[2025.07.04-09.32.39:878][471]LogPlayLevel: PIE: World Init took: (0.002937s)
+[2025.07.04-09.32.39:879][471]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.07.04-09.32.39:879][471]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.04-09.32.39:879][471]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.04-09.32.39:879][471]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.04-09.32.39:879][471]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.04-09.32.39:879][471]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.04-09.32.39:879][471]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.04-09.32.39:879][471]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.04-09.32.39:879][471]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.04-09.32.39:879][471]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.04-09.32.39:879][471]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.04-09.32.39:879][471]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.04-09.32.39:881][471]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.04-09.32.39:905][471]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer USB Sound Card)
+[2025.07.04-09.32.39:905][471]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.04-09.32.39:905][471]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.04-09.32.39:905][471]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.04-09.32.39:905][471]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.07.04-09.32.39:905][471]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.07.04-09.32.39:908][471]LogInit: FAudioDevice initialized with ID 2.
+[2025.07.04-09.32.39:908][471]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.07.04-09.32.39:908][471]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.07.04-09.32.39:908][471]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_TopDown'.
+[2025.07.04-09.32.39:908][471]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.04-09.32.39:911][471]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.07.04-09.32.39:913][471]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2025.07.04-15.02.39
+[2025.07.04-09.32.39:913][471]LogWorld: Bringing up level for play took: 0.001704
+[2025.07.04-09.32.39:918][471]LogBlueprintUserMessages: [BP_InventoryComponent] Hello
+[2025.07.04-09.32.39:919][471]PIE: Server logged in
+[2025.07.04-09.32.39:920][471]PIE: Play in editor total start time 0.105 seconds.
+[2025.07.04-09.32.41:159][605]LogNiagara: Compiling System NiagaraSystem /Game/TopDown/Cursor/FX_Cursor_Success.FX_Cursor_Success took 0.020636 sec (time since issued).
+[2025.07.04-09.32.41:192][607]LogPSOHitching: Encountered 200 PSO creation hitches so far (75 graphics, 125 compute). 0 of them were precached.
+[2025.07.04-09.32.52:303][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.04-09.32.52:303][907]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.07.04-09.32.52:303][907]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2025.07.04-09.32.52:304][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.04-09.32.52:304][907]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2025.07.04-09.32.52:305][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.04-09.32.52:309][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.04-09.32.52:330][907]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.04-09.32.52:330][907]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.04-09.32.52:330][907]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.07.04-09.32.52:332][907]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.07.04-09.32.52:335][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.04-09.32.52:337][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.07.04-09.32.52:386][908]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.07.04-09.32.55:659][250]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2025.07.04-09.32.55:659][250]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.07.04-09.33.32:586][438]LogStreaming: Display: FlushAsyncLoading(573): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.04-09.33.47:760][180]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.07.04-09.33.47:765][180]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: ================================================
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Total job queries 367, among them cache hits 23 (6.27%), DDC hits 278 (75.75%), Duplicates 65 (17.71%)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Tracking 279 distinct input hashes that result in 200 distinct outputs (71.68%)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: RAM used: 2.83 MiB of 1.55 GiB budget. Usage: 0.18%
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 0.51 s
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 0.54
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Shader code size: total 8.145 KiB, numShaders 1, average 8.145 KiB, min 8.145 KiB, max 8.145 KiB
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.54 s
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Average processing rate: 1.86 jobs/sec
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Total thread time: 0.393 s
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Total thread preprocess time: 3.955 s
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Percentage time preprocessing: 1005.34%
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Effective parallelization: 0.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.091437
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: === Material stats ===
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Materials Translated:    144
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Material Translation Only: 0.03 s (42%)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: Material Cache Hits: 32 (22%)
+[2025.07.04-09.33.50:917][554]LogShaderCompilers: Display: ================================================
+[2025.07.04-09.34.03:593][ 60]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.07.04-09.34.03:597][ 60]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.07.04-09.34.24:710][627]LogBlueprintUserMessages: [BP_InventoryComponent] Hello
+[2025.07.04-09.34.25:982][779]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.04-09.34.25:985][779]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.07.04-09.34.25:985][779]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2025.07.04-09.34.25:986][779]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 584 us (total: 1.117 ms)
+[2025.07.04-09.34.25:986][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.04-09.34.25:986][779]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2025.07.04-09.34.25:988][779]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.07.04-09.34.25:997][780]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.07.04-09.34.26:001][780]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.07.04-09.34.26:002][780]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 754 us (total: 1.554 ms)
+[2025.07.04-09.34.26:002][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004416s)
+[2025.07.04-09.34.26:002][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.004448s)
+[2025.07.04-09.34.26:035][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.04-09.34.26:040][780]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2025.07.04-09.34.26:041][780]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.04-09.34.26:041][780]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.04-09.34.26:042][780]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.04-09.34.26:042][780]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.04-09.34.26:043][780]LogWorldPartition: Display: WorldPartition initialize took 1.117 ms (total: 48.117 ms)
+[2025.07.04-09.34.26:043][780]LogPlayLevel: PIE: World Init took: (0.002958s)
+[2025.07.04-09.34.26:043][780]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.07.04-09.34.26:043][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.04-09.34.26:043][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.04-09.34.26:043][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.04-09.34.26:043][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.04-09.34.26:043][780]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.04-09.34.26:043][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.04-09.34.26:043][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.04-09.34.26:043][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.04-09.34.26:043][780]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.04-09.34.26:043][780]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.04-09.34.26:043][780]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.04-09.34.26:046][780]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.04-09.34.26:069][780]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer USB Sound Card)
+[2025.07.04-09.34.26:069][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.04-09.34.26:069][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.04-09.34.26:069][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.04-09.34.26:070][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.07.04-09.34.26:070][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.07.04-09.34.26:072][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.07.04-09.34.26:072][780]LogInit: FAudioDevice initialized with ID 3.
+[2025.07.04-09.34.26:072][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.07.04-09.34.26:072][780]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_TopDown'.
+[2025.07.04-09.34.26:072][780]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.07.04-09.34.26:098][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.04-09.34.26:098][780]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.07.04-09.34.26:100][780]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2025.07.04-15.04.26
+[2025.07.04-09.34.26:101][780]LogWorld: Bringing up level for play took: 0.002188
+[2025.07.04-09.34.26:104][780]LogBlueprintUserMessages: [BP_InventoryComponent] Hello
+[2025.07.04-09.34.26:107][780]PIE: Server logged in
+[2025.07.04-09.34.26:108][780]PIE: Play in editor total start time 0.123 seconds.
+[2025.07.04-09.34.26:132][781]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2025.07.04-09.34.26:132][781]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2025.07.04-09.34.31:275][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.04-09.34.31:275][276]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.07.04-09.34.31:275][276]LogSlate: Window 'InventoryTest_01 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.07.04-09.34.31:280][276]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2025.07.04-09.34.31:281][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.04-09.34.31:281][276]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2025.07.04-09.34.31:282][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.04-09.34.31:286][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.04-09.34.31:307][276]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.07.04-09.34.31:307][276]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.07.04-09.34.31:309][276]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.07.04-09.34.31:315][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.07.04-09.34.31:360][277]LogPlayLevel: Display: Destroying online subsystem :Context_13
