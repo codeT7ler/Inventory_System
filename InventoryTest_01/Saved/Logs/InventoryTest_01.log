@@ -1239,3 +1239,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.04-09.15.54:049][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 5.830388
 [2025.07.04-09.15.54:050][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -987497851
 [2025.07.04-09.15.54:050][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.830388, Update Interval: 357.619568
+[2025.07.04-09.16.32:437][124]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.07.04-09.16.32:888][125]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.07.04-09.16.34:515][288]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.07.04-09.16.35:660][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
