@@ -8,7 +8,9 @@
 				"D:/UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Inventory.uasset",
 				"D:/UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Widgets/WB_Slots.uasset",
 				"D:/UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
-				"D:/UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/TopDown/Blueprints/BP_InventoryComponent.uasset"
+				"D:/UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/TopDown/Blueprints/BP_InventoryComponent.uasset",
+				"D:/UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/Inventory/Blueprints/S_ItemStructure.uasset",
+				"D:/UnrealProjects_Git/UE_Inventory_System/InventoryTest_01/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
 	]
